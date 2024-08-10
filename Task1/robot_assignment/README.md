@@ -14,7 +14,7 @@ The project automates a Google search for "nokia wikipedia," verifies and intera
 
 - Python 3.11
 - Robot Framework 6.0.1
-SeleniumLibrary 6.1.0
+- SeleniumLibrary 6.1.0
 - Firefox browser (latest stable version)
 - geckodriver (compatible with the installed Firefox version)
 
